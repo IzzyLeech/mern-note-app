@@ -1,4 +1,3 @@
-import { create } from "axios";
 import Note from "../models/Note.js";
 
 export async function getAllNotes(req, res) {
